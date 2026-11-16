@@ -1,0 +1,14 @@
+# Core ML / notebook dependencies
+ultralytics>=8.3.0
+roboflow>=1.0.0
+supervision>=0.25.0
+
+# Data visualization / processing
+matplotlib>=3.8.0
+pandas>=2.0.0
+numpy>=1.24.0
+opencv-python-headless>=4.9.0
+
+# Optional but commonly used in Kaggle/local notebook workflows
+ipykernel>=6.29.0
+jupyter>=1.0.0
