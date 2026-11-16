@@ -6,7 +6,7 @@ An object detection project to identify and localize 33 different fish classes f
 
 ## Jupyter Notebook
 
-[View YOLOv11s Training Notebook](notebook/bangel-fish-detection-with-yolov11.ipynb)
+[View YOLOv11s Training Notebook](bangel-fish-detection-with-yolov11.ipynb)
 
 ## Project Overview
 
