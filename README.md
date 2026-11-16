@@ -4,6 +4,10 @@ YOLO11s-based object detection model for identifying 33 Bangladeshi fish classes
 
 An object detection project to identify and localize 33 different fish classes found in Bangladesh using the YOLO11s model. The model was trained using a Roboflow dataset and evaluated on a separate test set.
 
+## Jupyter Notebook
+
+[View YOLOv11s Training Notebook](notebook/bangel-fish-detection-with-yolov11.ipynb)
+
 ## Project Overview
 
 - **Project Type:** Object Detection
